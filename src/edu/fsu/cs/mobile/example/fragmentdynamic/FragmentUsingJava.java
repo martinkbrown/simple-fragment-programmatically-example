@@ -4,7 +4,6 @@ import android.app.Activity;
 import android.app.FragmentManager;
 import android.app.FragmentTransaction;
 import android.os.Bundle;
-import android.widget.FrameLayout;
 
 public class FragmentUsingJava extends Activity {
     /** Called when the activity is first created. */
